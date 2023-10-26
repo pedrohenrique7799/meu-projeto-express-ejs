@@ -4,12 +4,3 @@ body{
 .navbar bg-body-tertiary{
     background-color:#98c9f4 !important;
 }
-.card mb-3{
-    margin-top: 200px !important;
-}
-.roda{
-    width: 500px !important;
-}
-nav{
-    background-color: #a4d4ff !important;
-}
